@@ -23,7 +23,7 @@ fonttools==4.29.1
 gitdb==4.0.9
 GitPython==3.1.26
 h5py==3.6.0
-idna==3.3
+idna==3.7
 ipykernel==6.9.0
 ipympl==0.9.1
 ipython==8.0.1
